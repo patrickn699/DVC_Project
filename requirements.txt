@@ -1,5 +1,9 @@
+# for other packages
 dvc
 dvc[gdrive]
 sklearn
 pytest
 tox
+jupyternotebook
+# for local packages
+-e . 
