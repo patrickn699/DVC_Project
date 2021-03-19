@@ -1,0 +1,13 @@
+setup.py
+MLops_Wine.egg-info/PKG-INFO
+MLops_Wine.egg-info/SOURCES.txt
+MLops_Wine.egg-info/dependency_links.txt
+MLops_Wine.egg-info/top_level.txt
+src/__init__.py
+src/get_data.py
+src/load_data.py
+src/split_data.py
+src/train_and_evaluate.py
+tests/__init__.py
+tests/config_test.py
+tests/conftest.py
