@@ -21,3 +21,7 @@ estimators:
       l1_ratio: 0.89
 
 model_dir: saved_models
+
+reports:
+  params: Reports/params.json
+  scores: Reports/scores.json
