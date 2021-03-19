@@ -1,6 +1,6 @@
 action: GLOB, msg: packaging
 cwd: E:\MLOPS\sample_app
-cmd: 'c:\users\prath\anaconda3\envs\wine-q\python.exe' setup.py sdist --formats=zip --dist-dir 'E:\MLOPS\sample_app\.tox\dist'
+cmd: 'c:\users\prath\anaconda3\envs\wine-q\python.exe' setup.py sdist --formats=zip --dist-dir '.tox\dist'
 running sdist
 running egg_info
 writing MLops_Wine.egg-info\PKG-INFO
@@ -34,8 +34,7 @@ copying tests\__init__.py -> MLops_Wine-0.0.1\tests
 copying tests\config_test.py -> MLops_Wine-0.0.1\tests
 copying tests\conftest.py -> MLops_Wine-0.0.1\tests
 Writing MLops_Wine-0.0.1\setup.cfg
-creating E:\MLOPS\sample_app\.tox\dist
-creating 'E:\MLOPS\sample_app\.tox\dist\MLops_Wine-0.0.1.zip' and adding 'MLops_Wine-0.0.1' to it
+creating '.tox\dist\MLops_Wine-0.0.1.zip' and adding 'MLops_Wine-0.0.1' to it
 adding 'MLops_Wine-0.0.1\PKG-INFO'
 adding 'MLops_Wine-0.0.1\setup.cfg'
 adding 'MLops_Wine-0.0.1\setup.py'

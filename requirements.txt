@@ -5,5 +5,6 @@ sklearn
 pytest
 tox
 jupyternotebook
+flake8
 # for local packages
 -e . 
