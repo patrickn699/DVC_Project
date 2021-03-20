@@ -3,8 +3,8 @@ dvc
 dvc[gdrive]
 sklearn
 pytest
+pandas
 tox
-jupyternotebook
 flake8
 flask 
 gunicorn
