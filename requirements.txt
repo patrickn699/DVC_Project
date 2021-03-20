@@ -6,5 +6,7 @@ pytest
 tox
 jupyternotebook
 flake8
+flask 
+gunicorn
 # for local packages
 -e . 
