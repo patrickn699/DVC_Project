@@ -3,7 +3,7 @@ import json
 import logging
 import os
 import joblib
-from prediction_service.prediction import form_response, api_response
+from prediction_service.predictions import form_response, api_response
 import prediction_service
 '''
 class OutOfRange(Exception):
