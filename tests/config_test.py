@@ -21,7 +21,7 @@ def test_generic():
    
     
     #assert a== b
-'''
+
 
 
 
@@ -93,3 +93,4 @@ def test_api_response_incorrect_range(data=input_data["incorrect_range"]):
 def test_api_response_incorrect_col(data=input_data["incorrect_col"]):
     res = api_response(data)
     assert res["response"] == prediction_service.prediction.NotInCols().message
+'''
