@@ -5,7 +5,7 @@ import os
 import joblib
 from prediction_service.predictions import form_response, api_response
 import prediction_service
-'''
+
 class OutOfRange(Exception):
     def __init__(self,message = 'the value is out of range'):
 
@@ -22,7 +22,7 @@ def test_generic():
     
     #assert a== b
 
-
+'''
 
 
 input_data = {
