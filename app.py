@@ -3,7 +3,7 @@ import os
 import numpy as np
 from prediction_service import predictions
 
-
+# This file is for an api call!!
 webapp_root = "webapp"
 
 static_dir = os.path.join(webapp_root, "static")
